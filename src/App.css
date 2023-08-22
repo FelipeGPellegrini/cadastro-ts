@@ -1,0 +1,39 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-shadow: 0px 0px 8px black;
+  color: white;
+  text-align: center;
+}
+
+input{
+  padding: 10px;
+  display: flex;
+  margin: 30px auto;
+}
+
+button {
+  display: flex;
+  padding: 10px;
+  margin: auto;
+}
+
+.containerList {
+  margin: 30px;
+  text-align: center;
+  
+}
+
+.containerList ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 20px;
+  font-size: 18px;
+}
+
+
+
